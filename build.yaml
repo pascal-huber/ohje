@@ -20,5 +20,5 @@ include:
   - board: nice_nano
     shield: corne_left
   - board: s40nc
-  - board: nice_60
+  - board: nice60
   - board: planck_rev6
