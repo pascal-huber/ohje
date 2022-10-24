@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: adafruit_kb2040
+  - board: sparkfun_pro_micro_rp2040
     shield: reviung41
