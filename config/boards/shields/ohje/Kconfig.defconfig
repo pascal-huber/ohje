@@ -1,0 +1,6 @@
+if SHIELD_OHJE
+
+config ZMK_KEYBOARD_NAME
+    default "Ohje"
+
+endif

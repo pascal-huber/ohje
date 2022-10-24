@@ -1,0 +1,8 @@
+file_format: "1"
+id: ohje
+name: OHJE
+type: shield
+url: https://kbd.dailycraft.jp/bat43/
+requires: [pro_micro]
+features:
+  - keys
